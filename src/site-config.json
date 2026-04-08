@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Jake's Fencing & Excavating",
+    "phone": "+19134064544",
+    "category": "fence company",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted Fence & Excavation",
+      "heroSubline": "Protect your property and enhance its value with Jake's Fencing & Excavating. We deliver quality craftsmanship and reliable service across the Kansas City metro.",
+      "aboutTitle": "Built on Integrity, Grounded in Kansas City",
+      "aboutText": [
+        "Jake's Fencing & Excavating started with a simple goal: to provide honest, dependable fencing and excavation services to our neighbors in Kansas City. We've grown from a small operation to a trusted name, thanks to our commitment to quality and customer satisfaction.",
+        "We approach every project, big or small, with the same dedication and attention to detail. From the initial consultation to the final inspection, we ensure your project is completed to the highest standards. We value clear communication, respect for your property, and a job done right the first time.",
+        "We're proud to be a part of the Kansas City community. We support local organizations and strive to contribute to the growth and prosperity of our city. When you choose Jake's Fencing & Excavating, you're choosing a company that cares about its community."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience and a commitment to quality materials ensure a fence that lasts."
+        },
+        {
+          "title": "Comprehensive Services",
+          "description": "From fence installation to land clearing, we handle all your fencing and excavation needs."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's unique climate and soil conditions, ensuring durable and reliable results."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We are committed to on-time project completion and clear communication throughout the process."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Quote Today!",
+      "ctaSubline": "Protect your property with a quality fence. Contact Jake's Fencing & Excavating for a free estimate."
+    },
+    "services": [
+      {
+        "slug": "fence-installation",
+        "name": "Fence Installation",
+        "shortDescription": "Secure your property with our expert fence installation services.",
+        "description": "We specialize in professional fence installation for residential and commercial properties in Kansas City. Understanding the challenges of Kansas City's climate, from icy winters to humid summers, we use materials and techniques that ensure durability and longevity. We offer a wide variety of fencing options, including wood, vinyl, chain-link, and ornamental iron, allowing you to choose the perfect style to complement your property and meet your security needs. Our experienced team handles every aspect of the installation process, from precise measurements and post setting to meticulous finishing touches. We'll work with you to determine the best fence solution based on your budget, aesthetic preferences, and property requirements. We ensure proper permitting and compliance with local regulations, making the process seamless and stress-free for you. Whether you need a privacy fence, a decorative fence, or a security fence, we deliver quality craftsmanship and exceptional service.",
+        "process": [
+          "Step 1: Initial Consultation and Site Assessment",
+          "Step 2: Material Selection and Design Planning",
+          "Step 3: Permitting and Utility Line Marking",
+          "Step 4: Professional Installation and Final Inspection"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Increased Property Value",
+          "Improved Privacy",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of fence is best for Kansas City's climate?",
+            "answer": "Vinyl and treated wood fences are excellent choices for Kansas City's climate due to their resistance to moisture and temperature fluctuations. We can help you choose the best option for your specific needs."
+          },
+          {
+            "question": "How long does fence installation typically take?",
+            "answer": "The duration of fence installation depends on the size and complexity of the project, but we always provide an estimated timeline during the consultation. We strive to complete projects efficiently without compromising quality."
+          },
+          {
+            "question": "Do I need a permit for fence installation in Kansas City?",
+            "answer": "Yes, in most cases, a permit is required for fence installation in Kansas City. We handle the permitting process for you, ensuring compliance with all local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Restore your fence's integrity with our reliable repair services.",
+        "description": "Is your fence damaged from a recent storm, age, or general wear-and-tear? Don't let a damaged fence compromise your property's security and curb appeal. Jake's Fencing & Excavating offers comprehensive fence repair services to restore your fence to its original condition. We handle all types of fence repairs, from replacing broken posts and panels to fixing sagging gates and repairing damaged hardware. We have experience with all fence materials, including wood, vinyl, chain-link, and ornamental iron. Our skilled technicians will assess the damage and provide you with a cost-effective repair solution. We understand the importance of prompt and reliable service, especially when it comes to security concerns. We strive to complete repairs quickly and efficiently, minimizing disruption to your property. We use high-quality materials and proven techniques to ensure lasting repairs that withstand Kansas City's harsh weather conditions. Whether you have a minor repair or a major overhaul, we're here to help.",
+        "process": [
+          "Step 1: Thorough Damage Assessment",
+          "Step 2: Detailed Repair Quote and Material Selection",
+          "Step 3: Efficient and Professional Repair Execution",
+          "Step 4: Final Inspection and Quality Assurance"
+        ],
+        "benefits": [
+          "Improved Security",
+          "Extended Fence Lifespan",
+          "Enhanced Curb Appeal",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my fence needs repair or replacement?",
+            "answer": "If your fence has significant damage, such as leaning posts, rotting wood, or extensive rust, it may be more cost-effective to replace it. We can assess the condition of your fence and provide you with an honest recommendation."
+          },
+          {
+            "question": "Can you repair a fence that was damaged by a storm?",
+            "answer": "Yes, we have extensive experience repairing fences damaged by storms. We can quickly assess the damage and provide you with a repair plan to restore your fence's integrity."
+          },
+          {
+            "question": "What if my fence is leaning?",
+            "answer": "leaning fence is a common problem in KC soil. We can assess the cause of the lean and provide a solution, such as replacing the post or reinforcing the foundation."
+          }
+        ]
+      },
+      {
+        "slug": "excavation-services",
+        "name": "Excavation Services",
+        "shortDescription": "Prepare your site with our professional excavation services.",
+        "description": "Jake's Fencing & Excavating provides comprehensive excavation services for residential and commercial projects in Kansas City. Our experienced team has the equipment and expertise to handle a wide range of excavation tasks, including site preparation, land clearing, grading, trenching, and foundation excavation. We understand the importance of accurate and efficient excavation for the success of any construction project. We use state-of-the-art equipment and proven techniques to ensure precise and reliable results. We prioritize safety and environmental responsibility in all our excavation operations. We adhere to strict safety protocols and take measures to minimize disruption to the surrounding environment. We work closely with our clients to understand their specific needs and provide customized excavation solutions. Whether you're building a new home, installing a swimming pool, or preparing a site for commercial development, we deliver quality excavation services that meet your requirements. Our expertise in Kansas City's soil conditions ensures a stable and reliable foundation for your project.",
+        "process": [
+          "Step 1: Detailed Site Evaluation and Planning",
+          "Step 2: Utility Line Marking and Safety Precautions",
+          "Step 3: Efficient Excavation and Grading",
+          "Step 4: Site Cleanup and Debris Removal"
+        ],
+        "benefits": [
+          "Accurate Site Preparation",
+          "Efficient Project Execution",
+          "Safe and Reliable Service",
+          "Environmentally Responsible Practices"
+        ],
+        "faq": [
+          {
+            "question": "What types of excavation projects do you handle?",
+            "answer": "We handle a wide range of excavation projects, including site preparation for new construction, land clearing, grading, trenching for utilities, and foundation excavation."
+          },
+          {
+            "question": "Do you handle utility line marking?",
+            "answer": "Yes, we coordinate with utility companies to ensure that all underground lines are properly marked before excavation begins, minimizing the risk of damage."
+          },
+          {
+            "question": "How do you ensure safety during excavation?",
+            "answer": "We adhere to strict safety protocols and use appropriate equipment to ensure the safety of our workers and the surrounding area. We also conduct thorough site assessments to identify and mitigate potential hazards."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and enhance your property with our gate services.",
+        "description": "A well-functioning gate is essential for security, access control, and curb appeal. Jake's Fencing & Excavating offers comprehensive gate installation and repair services in Kansas City. We install and repair all types of gates, including driveway gates, pedestrian gates, and security gates. We work with a variety of materials, including wood, vinyl, chain-link, and ornamental iron, allowing you to choose the perfect gate to complement your fence and property. Our experienced technicians handle every aspect of the installation process, from precise measurements and post setting to gate alignment and hardware installation. We also provide gate repair services, including hinge replacement, latch repair, and gate alignment adjustments. We understand the importance of a properly functioning gate for security and convenience. We strive to provide prompt and reliable service to ensure your gate is working smoothly and securely. Whether you need a new gate installed or an existing gate repaired, we deliver quality craftsmanship and exceptional service.",
+        "process": [
+          "Step 1: On-Site Consultation and Design",
+          "Step 2: Material Selection and Custom Fabrication",
+          "Step 3: Expert Gate Installation or Repair",
+          "Step 4: Final Adjustments and Quality Check"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Access Control",
+          "Increased Property Value",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What types of gate hardware do you use?",
+            "answer": "We use high-quality gate hardware designed for durability and security. We offer a variety of options, including latches, hinges, and gate openers."
+          },
+          {
+            "question": "Can you install an automatic gate opener?",
+            "answer": "Yes, we can install automatic gate openers for added convenience and security. We offer a range of options to suit your needs and budget."
+          },
+          {
+            "question": "Can you match the gate to my existing fence?",
+            "answer": "Yes, we can match the gate to your existing fence in terms of style, material, and color. We strive to create a seamless and cohesive look for your property."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Prepare your land for construction with our efficient clearing services.",
+        "description": "Jake's Fencing & Excavating offers professional land clearing services in Kansas City to prepare your property for construction, landscaping, or other development projects. Our experienced team has the equipment and expertise to handle a wide range of land clearing tasks, including tree removal, brush removal, and debris removal. We understand the importance of proper land clearing for the success of any construction project. We use state-of-the-art equipment and proven techniques to ensure efficient and reliable results. We prioritize safety and environmental responsibility in all our land clearing operations. We adhere to strict safety protocols and take measures to minimize disruption to the surrounding environment. We work closely with our clients to understand their specific needs and provide customized land clearing solutions. Whether you're building a new home, developing a commercial property, or creating a recreational area, we deliver quality land clearing services that meet your requirements. We handle everything from small residential lots to large commercial properties.",
+        "process": [
+          "Step 1: Site Inspection and Assessment",
+          "Step 2: Permitting and Environmental Considerations",
+          "Step 3: Efficient Land Clearing and Debris Removal",
+          "Step 4: Site Grading and Preparation"
+        ],
+        "benefits": [
+          "Efficient Site Preparation",
+          "Safe and Responsible Practices",
+          "Increased Property Value",
+          "Improved Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for land clearing in Kansas City?",
+            "answer": "Yes, in most cases, a permit is required for land clearing in Kansas City. We can assist you with the permitting process to ensure compliance with all local regulations."
+          },
+          {
+            "question": "What do you do with the cleared debris?",
+            "answer": "We dispose of the cleared debris in an environmentally responsible manner, either by recycling it or taking it to a designated landfill."
+          },
+          {
+            "question": "How long does land clearing typically take?",
+            "answer": "The duration of land clearing depends on the size and complexity of the project. We will provide you with an estimated timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Protect your property with expert drainage solutions.",
+        "description": "Kansas City's weather can be tough on properties, especially with heavy rains and freeze-thaw cycles. Jake's Fencing & Excavating provides expert drainage solutions to protect your property from water damage. We assess your property's drainage issues and design customized solutions to effectively manage water runoff. Our services include French drain installation, culvert installation, and grading to improve water flow away from your foundation. We understand the importance of proper drainage for preventing foundation damage, basement flooding, and soil erosion. Our experienced team uses high-quality materials and proven techniques to ensure lasting results. We work closely with our clients to understand their specific needs and provide drainage solutions that are both effective and aesthetically pleasing. Whether you're dealing with standing water in your yard, a wet basement, or erosion problems, we can help you protect your property with our reliable drainage solutions.",
+        "process": [
+          "Step 1: Comprehensive Site Assessment",
+          "Step 2: Customized Drainage Plan Design",
+          "Step 3: Professional Installation and Grading",
+          "Step 4: Final Inspection and Water Flow Testing"
+        ],
+        "benefits": [
+          "Prevent Foundation Damage",
+          "Eliminate Standing Water",
+          "Reduce Soil Erosion",
+          "Protect Landscaping"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor drainage?",
+            "answer": "Signs of poor drainage include standing water in your yard, a wet basement, soil erosion, and foundation cracks."
+          },
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe to redirect surface and groundwater away from an area."
+          },
+          {
+            "question": "How much does drainage correction cost?",
+            "answer": "The cost of drainage correction depends on the severity of the problem and the type of solution required. We provide free estimates after assessing your property."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating is proud to offer our comprehensive fencing and excavating services to the residents of Overland Park, Missouri. With a large number of homes built in the 1970s through the 1990s, we understand the specific fencing needs of this established suburban community. From classic wood fences to durable vinyl options and chain link solutions, we have the perfect fence to enhance your property's security, privacy, and curb appeal.\n\nOur excavating services are also available to Overland Park homeowners for fence line preparation, land clearing, and other projects. We are familiar with the local soil conditions and weather patterns, including the ice storms that can impact fence integrity during the cold winters. Trust Jake's Fencing & Excavating to provide reliable and professional service for all your fencing and excavating needs in Overland Park.",
+        "localContext": "Overland Park is a large suburban city known for its excellent schools, family-friendly atmosphere, and well-maintained neighborhoods, many built between the 1970s and 1990s.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating is committed to serving the growing community of Olathe, Missouri. We understand the needs of families in this area, with many homes built in the 1980s through the 2000s. We offer a wide range of fencing options to suit various styles and budgets, including wood, vinyl, chain link, and ornamental fences. \n\nWe also provide expert excavating services for fence installations, land grading, and other projects, ensuring a solid foundation for your fence. Olathe experiences cold winters with ice storms, and we take that into account when recommending and installing fences that can withstand the elements. Let Jake's Fencing & Excavating help you enhance your property with a beautiful and durable fence in Olathe.",
+        "localContext": "Olathe is a thriving suburban city characterized by family-friendly developments and a strong sense of community, with a significant portion of its housing stock built between the 1980s and 2000s.",
+        "nearbyAreas": [
+          "Gardner",
+          "Lenexa",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating proudly serves the residents of Lee's Summit, Missouri, providing top-quality fencing and excavating services. We are familiar with the diverse neighborhoods of Lee's Summit, including many established family homes built in the 1970s through the 1990s. Whether you need a privacy fence, a decorative fence, or a security fence, we have the expertise to deliver exceptional results.\n\nOur excavating services are essential for proper fence installation and other outdoor projects. We understand the local climate, including the cold winters and ice storms that can affect fence stability. Trust Jake's Fencing & Excavating to provide reliable and professional service for all your fencing and excavating needs in Lee's Summit.",
+        "localContext": "Lee's Summit is a large suburban city known for its excellent schools, parks, and family-oriented atmosphere, with many neighborhoods featuring homes built in the 1970s and 1990s.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Grandview",
+          "Raymore"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating is your premier choice for fencing and excavation services in Kansas City, Missouri. From the historic neighborhoods to the modern developments, we understand the diverse needs of Kansas City residents. We offer a wide array of fencing solutions, including wood, vinyl, chain link, and ornamental iron, to suit any property and style.\n\nWe provide expert excavation services for fence installations, grading, and other outdoor projects, ensuring quality and durability. Kansas City's climate demands durable materials, and we are well-versed in the best practices for ensuring longevity. Choose Jake's Fencing & Excavating for reliable and professional service in Kansas City.",
+        "localContext": "Kansas City is a vibrant metropolitan area with a rich history and diverse architectural styles, requiring tailored fencing solutions for various neighborhoods.",
+        "nearbyAreas": [
+          "Independence",
+          "Gladstone",
+          "Parkville"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating is dedicated to serving the community of Independence, Missouri, with top-notch fencing and excavating services. As a city with a rich history and diverse housing styles, Independence requires a variety of fencing solutions. We offer custom fencing solutions for every need.\n\nOur excavating services are crucial for proper fence installation and land preparation. We understand the local soil conditions and climate, ensuring that your fence stands strong for years to come. For reliable and professional service in Independence, trust Jake's Fencing & Excavating.",
+        "localContext": "Independence is a historic city with a mix of older homes and newer developments, each with unique fencing requirements.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating is pleased to offer our expert fencing and excavating services to the residents of Lenexa, Missouri. With its mix of residential and commercial properties, Lenexa presents a variety of fencing needs. We provide durable and attractive fencing solutions for homes and businesses alike.\n\nOur excavating services are essential for preparing your property for fence installation and other landscaping projects. We understand the local environment and are committed to providing reliable and professional service. Choose Jake's Fencing & Excavating for all your fencing and excavating needs in Lenexa.",
+        "localContext": "Lenexa is a growing city with a mix of residential neighborhoods and commercial developments, requiring diverse fencing solutions.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating is committed to providing high-quality fencing and excavating services to the residents of Shawnee, Missouri. With a blend of established neighborhoods and new developments, Shawnee requires versatile fencing solutions. We offer a wide range of fencing options to suit any property and style.\n\nOur excavating services are crucial for proper fence installation and land preparation. We understand the local climate and soil conditions, ensuring that your fence stands strong for years to come. Trust Jake's Fencing & Excavating for reliable and professional service in Shawnee.",
+        "localContext": "Shawnee is a suburban city with a mix of older homes and new construction, each with unique fencing needs.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Overland Park",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Jake's Fencing & Excavating proudly serves the community of Blue Springs, Missouri, with top-quality fencing and excavating services. Blue Springs offers a mix of established neighborhoods and growing developments, and we are equipped to handle any fencing project.\n\nOur excavating services are essential for preparing your property for fence installation and other landscaping projects. We understand the local environment and are committed to providing reliable and professional service. Choose Jake's Fencing & Excavating for all your fencing and excavating needs in Blue Springs.",
+        "localContext": "Blue Springs is a growing suburban city with a mix of residential neighborhoods and commercial areas, requiring diverse fencing solutions.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Fence Installation",
+        "text": "Jake's Fencing & Excavating did an amazing job installing our new privacy fence. The crew was professional, efficient, and the fence looks fantastic! They even handled the permit process for us, which was a huge relief. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Fence Repair",
+        "text": "Had a section of my fence taken out by a falling tree limb during a storm. Jake's team came out quickly and repaired the damage seamlessly. You can't even tell there was ever damage! Great service and fair pricing.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Excavation Services",
+        "text": "We used Jake's for some land clearing before building a new patio. They were very professional, careful not to damage existing landscaping, and left the site clean. Would definitely use them again.",
+        "date": "2024-08-01"
+      },
+      {
+        "name": "Tom K.",
+        "rating": 5,
+        "service": "Gate Installation",
+        "text": "Jake's installed a new automatic gate for my driveway. The whole process was smooth and they were very helpful in choosing the right gate and opener for my needs. The gate works perfectly!",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Amy S.",
+        "rating": 4,
+        "service": "Drainage Solutions",
+        "text": "Jake's Fencing & Excavating installed a French drain in my backyard to address a persistent drainage problem. It's been a huge improvement! No more standing water after heavy rains.",
+        "date": "2024-04-22"
+      },
+      {
+        "name": "Brian P.",
+        "rating": 5,
+        "service": "Fence Installation",
+        "text": "I needed a chain link fence installed around my commercial property and Jake's Fencing & Excavating provided a quality product at a competitive price. They were professional and completed the job quickly.",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jake's Fencing & Excavating | Kansas City, MO",
+        "description": "Expert fence installation & excavation services in Kansas City. Secure your property with quality craftsmanship. Free quotes!"
+      },
+      "about": {
+        "title": "About Jake's Fencing & Excavating | Kansas City",
+        "description": "Learn about Jake's Fencing & Excavating in Kansas City, MO. Our commitment to quality & customer satisfaction."
+      },
+      "services": {
+        "title": "Fencing & Excavation Services | Kansas City, MO",
+        "description": "Comprehensive fence installation, repair & excavation services in Kansas City. Contact Jake's for a free quote."
+      },
+      "contact": {
+        "title": "Contact Jake's Fencing & Excavating | Kansas City",
+        "description": "Contact Jake's Fencing & Excavating for fence installation, repair, or excavation services in Kansas City, MO."
+      },
+      "reviews": {
+        "title": "Jake's Fencing & Excavating Reviews | Kansas City",
+        "description": "Read reviews of Jake's Fencing & Excavating in Kansas City. See what our satisfied customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Jake's Fencing & Excavating",
+        "description": "Jake's Fencing & Excavating provides service to Kansas City, Overland Park, Olathe, and Lee's Summit, MO."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "fence-installation": "/images/service-fence-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "excavation-services": "/images/service-excavation-services.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp",
+      "land-clearing": "/images/service-land-clearing.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "fence-installation": {
+        "src": "/images/service-fence-installation.webp",
+        "srcset": "/images/service-fence-installation-400w.webp 400w, /images/service-fence-installation-800w.webp 800w, /images/service-fence-installation-1200w.webp 1200w, /images/service-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "excavation-services": {
+        "src": "/images/service-excavation-services.webp",
+        "srcset": "/images/service-excavation-services-400w.webp 400w, /images/service-excavation-services-800w.webp 800w, /images/service-excavation-services-1200w.webp 1200w, /images/service-excavation-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
